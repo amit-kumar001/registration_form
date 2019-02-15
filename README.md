@@ -26,7 +26,9 @@
   
   
 
-### How to run this file
+### How to run this file  
+![image](https://user-images.githubusercontent.com/47202519/52858256-a613be80-314f-11e9-98ea-6a2cbda8c284.jpg)
+
 ~~~
 To run this file open any browser enter http://localhost/file_name
   http://localhost/re.php

@@ -1,4 +1,7 @@
-# registration_form
+# registration_form  
+
+​![database](https://user-images.githubusercontent.com/47202519/52895206-1e749100-31dd-11e9-9ca7-9be3d3ed1eb7.jpg)
+
 ## Key feature
 <ol>
 <li> We will create the registration form in <strong>php language</strong> and store data in database <strong>phpmyadmin</strong>. </li>
